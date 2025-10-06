@@ -1127,7 +1127,7 @@
 	mesh="wm_cave_troll_1h_mace_a01_head"
 	distance_to_next_piece="0"
 	distance_to_previous_piece="0"
-	weight="0.734">
+	weight="9.99">
 	<BuildData
 		piece_offset="0" />
 	<BladeData
@@ -1164,7 +1164,7 @@
 	mesh="wm_cave_troll_1h_mace_a02_head"
 	distance_to_next_piece="0"
 	distance_to_previous_piece="0"
-	weight="0.734">
+	weight="9.99">
 	<BuildData
 		piece_offset="0" />
 	<BladeData
@@ -1202,7 +1202,7 @@
 	mesh="wm_cave_troll_1h_mace_a03_head"
 	distance_to_next_piece="0"
 	distance_to_previous_piece="0"
-	weight="0.734">
+	weight="9.99">
 	<BuildData
 		piece_offset="0" />
 	<BladeData
@@ -1239,7 +1239,7 @@
 	mesh="wm_cave_troll_2h_mace_head"
 	distance_to_next_piece="0"
 	distance_to_previous_piece="0"
-	weight="0.734">
+	weight="9.99">
 	<BuildData
 		piece_offset="0" />
 	<BladeData
@@ -1274,7 +1274,7 @@
 		   piece_type="Blade"
 		   mesh="wm_cave_troll_spear_a01_blade"
 		   length="147.76"
-		   weight="0.87">
+		   weight="4.35">
 		<BladeData stack_amount="3"
 				   physics_material="metal_weapon"
 				   body_name="bo_wm_cave_troll_spear_a01_blade"
@@ -1304,7 +1304,7 @@
                piece_type="Handle"
                mesh="wm_cave_troll_1h_mace_a01_handle"
                length="192.25"
-               weight="0.105">
+               weight="4.53">
 	<BuildData piece_offset="30"
 	           previous_piece_offset="0"
 	           next_piece_offset="0" />
@@ -1320,7 +1320,7 @@
                piece_type="Handle"
                mesh="wm_cave_troll_1h_mace_a02_handle"
                length="194.29"
-               weight="0.105">
+               weight="4.53">
 	<BuildData piece_offset="30"
 	           previous_piece_offset="0"
 	           next_piece_offset="0" />
@@ -1336,7 +1336,7 @@
 	               piece_type="Handle"
 	               mesh="wm_cave_troll_1h_mace_a03_handle"
 	               length="176.34"
-	               weight="0.105">
+	               weight="4.53">
 		<BuildData piece_offset="30"
 		           previous_piece_offset="0"
 		           next_piece_offset="0" />
@@ -1352,7 +1352,7 @@
                piece_type="Handle"
                mesh="wm_cave_troll_2h_mace_handle"
                length="258.58"
-               weight="0.105">
+               weight="4.53">
 	<BuildData piece_offset="30"
 	           previous_piece_offset="0"
 	           next_piece_offset="0" />
@@ -1368,7 +1368,7 @@
 	               piece_type="Handle"
 	               mesh="wm_cave_troll_spear_a01_handle"
 	               length="524.09"
-	               weight="0.105">
+	               weight="4.35">
 		<BuildData piece_offset="30"
 		           previous_piece_offset="0"
 		           next_piece_offset="0" />
