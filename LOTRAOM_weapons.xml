@@ -2228,7 +2228,7 @@
 	</CraftedItem>
 
 
-	<CraftedItem id="wm_gf_knight_longsword" name="[Nolder] Golden Flower Longsword" crafting_template="TwoHandedSword"
+	<CraftedItem id="wm_gf_knight_longsword" name="[Noldor] Golden Flower Longsword" crafting_template="TwoHandedSword"
 	             is_merchandise="true" culture="Culture.rivendell">
 		<Pieces>
 			<Piece id="wm_gf_knight_longsword_blade" Type="Blade" scale_factor="100" />
@@ -2239,7 +2239,7 @@
 	</CraftedItem>
 
 
-	<CraftedItem id="wm_gf_knight_broadsword" name="[Nolder] Golden Flower Broadsword" crafting_template="OneHandedSword"
+	<CraftedItem id="wm_gf_knight_broadsword" name="[Noldor] Golden Flower Broadsword" crafting_template="OneHandedSword"
 					 is_merchandise="true" culture="Culture.rivendell">
 		<Pieces>
 			<Piece id="wm_gf_knight_broadsword_blade" Type="Blade" scale_factor="100" />
@@ -2249,7 +2249,7 @@
 		</Pieces>
 	</CraftedItem>
 
-	<CraftedItem id="wm_gf_knight_spear" name="[Nolder] Golden Flower Spear"
+	<CraftedItem id="wm_gf_knight_spear" name="[Noldor] Golden Flower Spear"
 	             crafting_template="TwoHandedPolearm"
 	             culture="Culture.rivendell" is_merchandise="false">
 		<Pieces>
@@ -2847,7 +2847,7 @@
 	<!--Arrows -->
 	<Item
 		id="wm_elven_arrow_v1_a"
-		name="{=wm_elven_arrow_v1_a}[Noldar] Elven Arrow I"
+		name="{=wm_elven_arrow_v1_a}[Noldor] Elven Arrow I"
 		body_name="bo_capsule_arrow"
 		holster_body_name="bo_axe_short"
 		mesh="wm_elven_arrow_v1_a"
@@ -2889,7 +2889,7 @@
 
 	<Item
 			id="wm_elven_arrow_v2_a"
-			name="{=wm_elven_arrow_v2_a}[Noldar] Elven Arrow II"
+			name="{=wm_elven_arrow_v2_a}[Noldor] Elven Arrow II"
 			body_name="bo_capsule_arrow"
 			holster_body_name="bo_axe_short"
 			mesh="wm_elven_arrow_v2_a"
@@ -2931,7 +2931,7 @@
 
 	<Item
 			id="wm_elven_arrow_v3_a"
-			name="{=wm_elven_arrow_v1_awm_elven_arrow_v1_a}[Noldar] Elven Arrow III"
+			name="{=wm_elven_arrow_v1_awm_elven_arrow_v1_a}[Noldor] Elven Arrow III"
 			body_name="bo_capsule_arrow"
 			holster_body_name="bo_axe_short"
 			mesh="wm_elven_arrow_v1_a"
@@ -2974,7 +2974,7 @@
 
 	<Item
 			id="wm_elven_arrow_v4_a"
-			name="{=wm_elven_arrow_v2_a}[Noldar] Elven Arrow IV"
+			name="{=wm_elven_arrow_v2_a}[Noldor] Elven Arrow IV"
 			body_name="bo_capsule_arrow"
 			holster_body_name="bo_axe_short"
 			mesh="wm_elven_arrow_v2_a"
